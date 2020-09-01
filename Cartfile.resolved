@@ -1,4 +1,4 @@
 github "erikdoe/ocmock" "v3.6"
 github "pinterest/PINCache" "3.0.1"
 github "pinterest/PINOperation" "1.2.0"
-github "pinterest/PINRemoteImage" "5eeca0f0955324ec9b3d42cdf287a9b6324a5ca9"
+github "pinterest/PINRemoteImage" "3d22c71a9d41526594a432fb65c85b6319707ef0"
